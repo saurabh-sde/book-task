@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# library-task-go
+# book-task-go
 
 # Task
 
